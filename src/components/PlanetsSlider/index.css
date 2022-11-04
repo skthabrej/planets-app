@@ -1,0 +1,12 @@
+.slider-container {
+  background-image: url('https://i.postimg.cc/L89VnHgH/pexels-instawalli-169789.jpg');
+  height: 100vh;
+  padding: 40px;
+  background-size: cover;
+}
+
+.heading {
+  text-align: center;
+  color: #ffffff;
+  font-size: 35px;
+}

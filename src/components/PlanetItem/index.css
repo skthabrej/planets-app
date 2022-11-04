@@ -1,0 +1,27 @@
+.list-items {
+    list-style-type: none;
+}
+
+.img {
+    height: 450px;
+    width: 450px;
+}
+
+.items-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.item-heading {
+    color: rgb(197, 255, 51);
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.item-paragraph{
+    color: bisque;
+    font-size: 18px;
+    text-align: center;
+}
